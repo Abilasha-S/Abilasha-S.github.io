@@ -1,7 +1,7 @@
 I am a Post Doctoral researcher at Aix-Marseille University, France, working in Natural Language Processing. I have completed my PhD in Machine Learning (anomaly detection and extreme event prediction in time series) from Indian Institute of Technology, after acquiring Master's and Bachelor's degree in Computer Science and Technology.
 
 #### GitHub
-[![Abilasha S](https://img.shields.io/badge/Abilasha-S-github-blue?logo=github)](https://github.com/Abilasha-S))
+[![Abilasha S](https://img.shields.io/badge/Abilasha-S-github-blue?logo=github)](https://github.com/Abilasha-S)
 
 
 #### Email

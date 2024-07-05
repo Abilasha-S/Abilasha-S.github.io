@@ -9,7 +9,7 @@ abi4surabi[at]gmail.com
 
 #### Education
 
-2018-2023, PhD: Machine Learning, Computer Science and Engineering, Indian Institute of Technology, Palakkad, Kerala, India.
+2018 - 2023, PhD: Machine Learning, Computer Science and Engineering, Indian Institute of Technology, Palakkad, Kerala, India.
 
 2014 - 2016, Master of Technology, Computer Science and Engineering, University of Calicut, Kerala, India.
 

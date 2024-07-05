@@ -1,9 +1,11 @@
-- First-prize Academic Scholarship, 2023.
+- Best Poster Award, IndoML machine learning symposium, IIT Gandhinagar, 2022
 
-- Freshman Academic Scholarship, 2022.
+- Best Doctoral Research Award, Research Scholars Day, IIT Palakkad, 2023
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- NSF Travel Grant, CIKM, USA, 2022.
 
-- First-prize Enterprise Scholarship, 2021.
+- Senior Research Fellow, Science and Engineering Research Board, grant for project “Robust multiview learning in time series data”
 
-- First-prize Academic Scholarship, 2019.
+- CSIR National Eligibility Test (CS) Qualified, GATE qualified (2018, 2016,2014)
+
+- University Rank for B.Tech

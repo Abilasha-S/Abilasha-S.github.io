@@ -8,6 +8,7 @@ Multiview probabilistic topic modeling
 Fairness in Time series Anomaly Detection and Prediction
 
 <strong> Doctoral Researcher, IIT Palakkad (July, 2018 - Aug 2023) </strong>
+
 Robust Method for Anomaly Detection and Extreme Event Prediction in Time Series
 
 Projects

@@ -2,7 +2,8 @@
 <strong> PostDoctoral Researcher, Aix Marseille University-LIS LAB </strong>
 
 Multiview probabilistic topic modeling 
-<strong> Senior Rsearch Fellow, IIT Palakkad (Aug-Jan, 2023) </strong>
+
+<strong> Senior Research Fellow, IIT Palakkad (Aug-Jan, 2023) </strong>
 
 Fairness in Time series Anomaly Detection and Prediction
 

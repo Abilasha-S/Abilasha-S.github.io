@@ -2,13 +2,11 @@
 <strong> PostDoctoral Researcher, Aix Marseille University-LIS LAB </strong>
 
 Multiview probabilistic topic modeling 
-
 <strong> Senior Rsearch Fellow, IIT Palakkad (Aug-Jan, 2023) </strong>
 
 Fairness in Time series Anomaly Detection and Prediction
 
 <strong> Doctoral Researcher, IIT Palakkad (July, 2018 - Aug 2023) </strong>
-
 Robust Method for Anomaly Detection and Extreme Event Prediction in Time Series
 
 Projects
@@ -24,7 +22,7 @@ Projects
 - Machine Learning lab, Jan 2021, Artificial Intelligence lab, Jan 2019, Jan 2020
 - Data Structures lab, Jun 2019, DBMS lab, Jun 2021
 - Big Data lab , Jun 2020
-- 
+  
 <strong> Assistant Professor, LBS Applied Science College, Parappanangadi (2018) </strong>
 
 <strong> Lecturer, Kerala Government Polytechnic College, Kozhikode (2017-18) </strong>

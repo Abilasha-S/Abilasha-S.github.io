@@ -1,0 +1,9 @@
+- ML workshop on time series analysis Petrichor’23 (tech fest), IIT Palakkad, 2023
+- Research talk on Time Series Prediction with Extreme Events, at Research Scholars Day, IIT Palakkad, 2023
+- Research talks on Time Series Anomay Detection and Extreme Event Prediction, at Queen’s University, Belfast, UK, 2023 (as part of research visit)
+- Poster presentation, Industry Academia Conclave 5.0,IIT Palakkad, 2023
+- CIKM conference, Oral presentation, USA (Hybrid),2022
+- Poster presentation, IndoML symposium, IIT Gandhinagar, 2022
+- Poster presentation, CREDS 2021, IIT Palakkad, 2021
+- Fairness Accountability Transparency Explainability (FATE) -ML workshop, Indian Institute of Science (2020) (participation)
+- Poster presentation, Research Scholars Day 2019, IIT Palakkad, 2019
